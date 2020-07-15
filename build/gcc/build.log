@@ -1,0 +1,4 @@
+custom/bsp/src/bsp_st3375.c: In function 'ST3375_ClrScr':
+custom/bsp/src/bsp_st3375.c:356:10: warning: unused variable 'm' [-Wunused-variable]
+    u16 i,m,temp, *pFBuf;
+          ^
